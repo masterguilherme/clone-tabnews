@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Pagina do Guilherme Pai e Samuel Filho</h1>;
+  return <h1>Valdeys, se você me ama da um sorriso!</h1>;
 }
 
 export default Home;
